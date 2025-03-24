@@ -42,6 +42,14 @@ Me chamo Wesley Franco, tenho 24 anos e atualmente estou cursando o 8° período
 />
 <img 
     align="left" 
+    alt="Dart" 
+    title="Dart"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"
+/>
+<img 
+    align="left" 
     alt="Django" 
     title="Django"
     width="30px" 
@@ -110,21 +118,15 @@ Me chamo Wesley Franco, tenho 24 anos e atualmente estou cursando o 8° período
 
 ###  Estatísticas
 
-<table>
-  <tr>
-    <td>
-      <img 
-        alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api?username=WesleyWBFranco&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Estatísticas%20Github%20Wesley%20Franco" 
-      />
-    </td>
-    <td>
-      <img 
-        alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyWBFranco&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
-      />
-    </td>
-  </tr>
-</table>
+
+<img 
+alt="GitHub Stats" 
+height="200" 
+src="https://github-readme-stats.vercel.app/api?username=WesleyWBFranco&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Estatísticas%20Github%20Wesley%20Franco" 
+/>
+<img 
+alt="GitHub Stats" 
+height="200" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyWBFranco&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
+/>
+
